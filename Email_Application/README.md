@@ -1,2 +1,5 @@
-# Java_projects
-Several Java projects developed in Java Eclipse.
+# Email Application
+Simple Java application using Java eclipse.
+
+
+![GitHub Logo](./description.PNG)
